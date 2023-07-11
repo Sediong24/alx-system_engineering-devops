@@ -1,0 +1,2 @@
+#!/Bin/Bash
+tail -n 1 < iacta >> iacta
